@@ -1,26 +1,6 @@
-kfngmjlfgfl
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-B
-B
-B
-B
+
 
 # sample
+hi
+thi
+is
